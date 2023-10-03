@@ -200,4 +200,5 @@ public class GUI extends JFrame {
             lblResul.setText("");
         }
     }
+
 }
